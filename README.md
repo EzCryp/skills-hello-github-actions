@@ -21,7 +21,7 @@ _Create a GitHub Action and use it in a workflow._
 
 ## Step 5: Trigger the workflow
 
-
+🔘👈🏼
 
 Your new action will run any time a pull request has been opened.
 
